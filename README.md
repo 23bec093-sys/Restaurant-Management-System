@@ -1,1 +1,2 @@
 # Restaurant-Management-System
+The Restaurant Management System is a software application designed to simplify and automate the daily operations of a restaurant. It helps manage food menus, customer orders, billing, payments, and table reservations efficiently. The system reduces manual work, minimizes errors, saves time, and improves customer service. Its main objective is to make restaurant operations more organized, accurate, and convenient for both restaurant staff and customers.
